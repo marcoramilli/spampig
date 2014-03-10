@@ -111,3 +111,7 @@ body([],0).
 
 ### Side Notes
 This is a pretty old software born a research project in 
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/marcoramilli/spampig/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
