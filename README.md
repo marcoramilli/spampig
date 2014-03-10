@@ -1,4 +1,4 @@
-# SpamPIG
+# SpamPIG [![Support Marco via Gittip](http://img.shields.io/gittip/marco.svg)](https://www.gittip.com/marco/)
 ---------
 
 ![alt SpamPIG](http://spampig.sourceforge.net/img/pig.png "")
